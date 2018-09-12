@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TesteArrayListaIntAmazon1" project="bytebank-herdado-conta" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.bytebank.banco.test.TesteArrayListaIntAmazon1" time="0.0" displayname="TesteArrayListaIntAmazon1" uniqueid="[engine:junit-jupiter]/[class:br.com.bytebank.banco.test.TesteArrayListaIntAmazon1]">
+    <testcase name="execute" classname="br.com.bytebank.banco.test.TesteArrayListaIntAmazon1" time="0.0" displayname="execute()" uniqueid="[engine:junit-jupiter]/[class:br.com.bytebank.banco.test.TesteArrayListaIntAmazon1]/[method:execute()]"/>
+  </testsuite>
+</testrun>
